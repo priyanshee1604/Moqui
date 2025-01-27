@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/xml-screen-2.1.xsd" require-authentication="anonymous-all">
+    <widgets>
+        <label text="We are in sub-screen."/>
+    </widgets>
+</screen>
